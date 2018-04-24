@@ -1,0 +1,10 @@
+C:\Users\adria\Documents\Visual Studio 2017\Projects\WindowsFormsExample3-1\WindowsFormsExample3-1\bin\Debug\WindowsFormsExample3-1.exe.config
+C:\Users\adria\Documents\Visual Studio 2017\Projects\WindowsFormsExample3-1\WindowsFormsExample3-1\bin\Debug\WindowsFormsExample3-1.exe
+C:\Users\adria\Documents\Visual Studio 2017\Projects\WindowsFormsExample3-1\WindowsFormsExample3-1\bin\Debug\WindowsFormsExample3-1.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\WindowsFormsExample3-1\WindowsFormsExample3-1\obj\Debug\WindowsFormsExample3-1.csprojResolveAssemblyReference.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\WindowsFormsExample3-1\WindowsFormsExample3-1\obj\Debug\WindowsFormsExample3_1.frmSales.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\WindowsFormsExample3-1\WindowsFormsExample3-1\obj\Debug\WindowsFormsExample3_1.Properties.Resources.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\WindowsFormsExample3-1\WindowsFormsExample3-1\obj\Debug\WindowsFormsExample3-1.csproj.GenerateResource.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\WindowsFormsExample3-1\WindowsFormsExample3-1\obj\Debug\WindowsFormsExample3-1.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\WindowsFormsExample3-1\WindowsFormsExample3-1\obj\Debug\WindowsFormsExample3-1.exe
+C:\Users\adria\Documents\Visual Studio 2017\Projects\WindowsFormsExample3-1\WindowsFormsExample3-1\obj\Debug\WindowsFormsExample3-1.pdb
